@@ -1,6 +1,7 @@
 # [RainbowSwirl](http://travis.bingo/rainbowSwirl/)
 A drawing app using HTML5 Canvas.
-[![](http://imgur.com/a/rWi2i)](http://travis.bingo/rainbowSwirl/)
+
+[![](http://i.imgur.com/VeTG5zZ.png)](http://travis.bingo/rainbowSwirl/)
 
 ## Features
 * Draws lines onto the canvas by clicking and dragging mouse
