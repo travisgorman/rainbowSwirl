@@ -1,5 +1,5 @@
 const canvas = document.getElementById('draw');
-const ctx = canvas.getContext('2d')
+const ctx = canvas.getContext('2d');
 
 canvas.addEventListener('mousemove', draw);
 
