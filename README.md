@@ -23,3 +23,10 @@ In this project, we're accessing the `CanvasRenderingContext2d` object by callin
 * [hsl](http://mothereffinghsl.com/)
 * (a little bit about) [ES6 destructuring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
 * More about `MouseEvent`s
+
+## How I can expand on this
+* different [`globalCompositeOperation` properties](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/globalCompositeOperation)
+* mess with the opacity
+* make toolbar where you can select an eraser tool
+* an eraser tool
+* range inputs that change line width, color, opacity, etc...
