@@ -1,12 +1,12 @@
 # [RainbowSwirl](http://travis.bingo/rainbowSwirl/)
 A drawing app using HTML5 Canvas.
 
-[![](http://i.imgur.com/VeTG5zZ.png)](http://travis.bingo/rainbowSwirl/)
-
 ## Features
 * Draws lines onto the canvas by clicking and dragging mouse
 * Line changes color as you drag
 * Line changes stroke width as you drag
+
+[![](http://i.imgur.com/VeTG5zZ.png)](http://travis.bingo/rainbowSwirl/)
 
 ##[`<canvas>`](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
 is an HTML5 element that can be used to draw graphics into via JavaScript
@@ -17,7 +17,6 @@ In this project, we're accessing the `CanvasRenderingContext2d` object by callin
 * `lineWidth`
 * `strokeStyle`
 * `globalCompositeOperation`
-
 
 ## New / Interesting Things I Learned About
 * `<canvas>` and [`CanvasRenderingContext2D`](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D)
